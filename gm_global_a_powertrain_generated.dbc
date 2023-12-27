@@ -125,6 +125,10 @@ BO_ 320 BCMTurnSignals: 3 K9_BCM
  SG_ HighBeamsActive : 7|1@0+ (1,0) [0|1] "" XXX
  SG_ HighBeamsTemporary : 5|1@0+ (1,0) [0|1] "" XXX
 
+BO_ 322 RADAR_RELATED: 7 XXX
+ SG_ BSM_RIGHT : 6|1@0+ (1,0) [0|1] "" XXX
+ SG_ BSM_LEFT : 7|1@0+ (1,0) [0|1] "" XXX
+
 BO_ 328 PSCM_148: 1 K43_PSCM
 
 BO_ 381 ESPStatus: 6 K20_ECM
@@ -136,6 +140,8 @@ BO_ 384 ASCMLKASteeringCmd: 4 NEO
  SG_ LKASteeringCmdChecksum : 19|12@0+ (1,0) [0|0] ""  NEO
  SG_ LKASteeringCmdActive : 3|1@0+ (1,0) [0|0] ""  NEO
  SG_ LKASteeringCmd : 2|11@0- (1,0) [0|0] ""  NEO
+
+
 
 BO_ 388 PSCMStatus: 8 K43_PSCM
  SG_ HandsOffSWDetectionMode : 20|2@0+ (1,0) [0|3] "" NEO

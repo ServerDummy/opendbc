@@ -126,8 +126,8 @@ BO_ 320 BCMTurnSignals: 3 K9_BCM
  SG_ HighBeamsTemporary : 5|1@0+ (1,0) [0|1] "" XXX
 
 BO_ 322 RADAR_RELATED: 7 XXX
- SG_ BSM_RIGHT : 6|1@0+ (1,0) [0|1] "" XXX
- SG_ BSM_LEFT : 7|1@0+ (1,0) [0|1] "" XXX
+ SG_ BSM_LEFT : 6|1@0+ (1,0) [0|1] "" XXX
+ SG_ BSM_RIGHT : 7|1@0+ (1,0) [0|1] "" XXX
 
 BO_ 328 PSCM_148: 1 K43_PSCM
 
